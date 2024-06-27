@@ -31,13 +31,13 @@ a.btn.dark_gray_bt:focus,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover,
 .icon_feature {
-	background: #039ee3;
+	background: #e96617;
     background-size: 100% 100%;
     border: none;
 }
 
 .theme_bg {
-	background: #039ee3;
+	background: #e96617;
 }
 
 #navbar_menu > ul > li a.active,
@@ -49,12 +49,12 @@ footer p a:hover,footer p a:focus,
 footer ul.social_icons li a:hover,
 footer ul.social_icons li a:focus,
 .breadcrumb li a {
-    color: #039ee3;
+    color: #e96617;
 }
 
 .btn.sqaure_bt {
     border-radius: 0;
-    background: #039ee3;
+    background: #e96617;
 }
 
 .btn.sqaure_bt span {
@@ -67,16 +67,16 @@ footer ul.social_icons li a:focus,
 footer h2::after,
 .footer_mail-section .field button.button_custom,
 .cprt,.contact_us_section {
-	background: #039ee3;
+	background: #e96617;
 }
 
 .tp-caption.tp-shape.tp-shapewrapper.tp-resizeme.rs-parallaxlevel-0 {
-    background: #039ee3 !important;
+    background: #e96617 !important;
 }
 
 a.btn.main_bt,
 button.btn.main_bt {
-	background: #17a5e9;
+	background: #e96617;
 	border: none;
 }
 
@@ -84,7 +84,7 @@ a.btn.main_bt:hover,
 a.btn.main_bt:focus,
 button.btn.main_bt:hover,
 button.btn.main_bt:focus {
-	background: #25d8ed;
+	background: #e96617;
 	background-size: 100% 100%;
 	color: #fff;
 }
@@ -108,7 +108,7 @@ a.btn.light_btn:focus {
 }
 
 .modal-backdrop {
-	background-color: rgba(3, 158, 227, .95);
+	background-color: rgba(233, 102, 23, 0.8);
 }
 
 #navbar_menu ul ul,
@@ -125,7 +125,7 @@ hr.dottad_border,
 .pagination>.active>span:hover,
 .comment_section,
 .boder_dottat_small {
-	border-color: #039ee3;
+	border-color: #e96617;
 }
 
 
@@ -192,7 +192,7 @@ a.btn.white_btn:hover {
 }
 
 .tp-bannertimer {
-    background: #039ee3 !important;
+    background: #e96617 !important;
 }
 
 .tp-caption.tp-shape.tp-shapewrapper.rs-parallaxlevel-0 {
