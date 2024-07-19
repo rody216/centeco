@@ -1,49 +1,49 @@
 [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
+        "name":" Drive Usb 64 Gb",
         "price": 200,
         "image": "image/1.png"
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
+        "name":" Teclado usb",
         "price": 250,
         "image": "image/2.png"
     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
+        "name":" Conector de audio múltiple",
         "price": 290,
         "image": "image/3.png"
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
+        "name":" Parlantes para Computadora",
         "price": 200,
         "image": "image/4.png"
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
+        "name":" Organizador de Cables",
         "price": 300,
         "image": "image/5.png"
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
+        "name":" Multitoma eléctrico 5 Mts.",
         "price": 200,
         "image": "image/6.png"
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
+        "name":" Disco Externo WD 1TB",
         "price": 200,
         "image": "image/7.png"
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "name":" Mouse Bluetooth",
         "price": 200,
         "image": "image/8.png"
     }
